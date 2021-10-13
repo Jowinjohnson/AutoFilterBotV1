@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/M_r_Einstein'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Jowinjohnson/AutoFilterBotV1')
+        InlineKeyboardButton('💥Developer💥', url='https://t.me/M_r_Einstein'),
+        InlineKeyboardButton('⭕️our channel⭕️', url ='https://t.me/Cinemaabranthanmar_Channel')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Cinemaabranthanmar_Group')
+        InlineKeyboardButton('🔰 Support our group 🔰', url='https://t.me/Cinemaabranthanmar_Group')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
