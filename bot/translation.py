@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/Jowinjohnson/AutoFilterBotV1">Click Me</a></i>
+<b>➥ Join here</b> : <i><a href="https://t.me/M_r_Einstein">Click Me</a></i>
 """
